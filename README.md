@@ -1,6 +1,6 @@
 # 欢迎来到Phi Chart Revelation Team
 
-![icon_image](https://pcrt-team.github.io/About-us/icon_result_1024x1024.png = 100x100)
+![icon_image](https://pcrt-team.github.io/About-us/icon_result_1024x1024.png =100x100)
 
 > 这是由[欧一biang吔](https://space.bilibili.com/437161770)创立的Phi Chart Revelation Team，是一个充满活力且汇聚众多人才的团队。
 
