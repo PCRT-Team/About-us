@@ -8,7 +8,7 @@
 Xx_Dark_D_xX](https://space.bilibili.com/389306201)大佬
 
 
-现在team的申请方式主要在QQ，可以通过填写[问卷](https://kaoshi.wjx.top/vm/YpPk3YP.aspx)来申请加入我们这个充满活力的团队。
+现在team的申请方式主要在QQ，可以通过填写[问卷](https://kaoshi.wjx.top/vm/YpPk3YP.aspx)来申请加入。
 
 我们非常欢迎你来到Phi Chart Revelation Team，期待你的加入!
  
