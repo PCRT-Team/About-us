@@ -25,7 +25,7 @@
     </div>
     <div style="text-align: center;">
         <img src="./userImg/qifie.jpg" alt="qaqfei" width="100" height="100" style="border-radius: 50%;">
-        <p>qaqfei</p>
+        <p>qaqFei</p>
     </div>
     <div style="text-align: center;">
         <img src="./userImg/bbc.jpg" alt="BingBingCAT" width="100" height="100" style="border-radius: 50%;">
@@ -36,7 +36,7 @@
         <p>bychuhan</p>
     </div>
     <div style="text-align: center;">
-        <img src="./userImg/9.jpg" alt="️泡水⑨fuo" width="100" height="100" style="border-radius: 50%;">
-        <p>️泡水⑨fuo</p>
+        <img src="./userImg/9.jpg" alt="️泡水⑨fumo" width="100" height="100" style="border-radius: 50%;">
+        <p>️泡水⑨fumo</p>
     </div>
 </div>
