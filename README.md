@@ -12,4 +12,4 @@ Xx_Dark_D_xX](https://space.bilibili.com/389306201)大佬
   - 填写[问卷](https://kaoshi.wjx.top/vm/YpPk3YP.aspx)
   - 大佬邀请
 
-期待你加入Phi Chart Revelation Team，我们将非常欢迎你的来到！
+期待你加入Phi Chart Revelation Team，我们非常欢迎你的来到！
