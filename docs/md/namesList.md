@@ -5,7 +5,10 @@
     <div style="text-align: center;">
         <img src="./userImg/o1b.jpg" alt="欧一biang吔" width="100" height="100" style="border-radius: 50%;">
         <p>欧一biang吔</p>
+        <button id="bilibutton" onclick="window.location.href = 'https://space.bilibili.com/437161770';">Bilibili</button>
+        <button id="gitbutton" onclick="window.location.href = 'https://github.com/Allenkzf';">Github</button>
     </div>
+    <!-- 我太累了，不写了。明天再写 -by bbc -->
     <div style="text-align: center;">
         <img src="./userImg/hlmc.jpg" alt="HLMC" width="100" height="100" style="border-radius: 50%;">
         <p>HLMC</p>
@@ -58,14 +61,14 @@
 
 <style>
     #bilibutton {
-    height: 40px;
-    width: 100px;
+    height: 20px;
+    width: 50px;
     background-color: rgb(50, 155, 230);
     /*按钮边框宽度*/
     border: 0px;
     /*圆角*/
     border-radius: 50px;
-    font-size: 20px;
+    font-size: 13px;
     /*手指-鼠标*/
     cursor: pointer;
     /*颜色-字*/
@@ -78,14 +81,14 @@
     background-color: rgb(30, 120, 200);
 }
 #gitbutton {
-    height: 40px;
-    width: 100px;
+    height: 20px;
+    width: 50px;
     background-color: rgb(0, 0, 0);
     /*按钮边框宽度*/
     border: 0px;
     /*圆角*/
     border-radius: 50px;
-    font-size: 20px;
+    font-size: 13px;
     /*手指-鼠标*/
     cursor: pointer;
     /*颜色-字*/
@@ -98,7 +101,6 @@
     background-color: rgb(75, 75, 75);
 }
 </style>
-<button id="bilibutton">Bilibili</button>
-<button id="gitbutton">Github</button>
+
 
 > 待补充
