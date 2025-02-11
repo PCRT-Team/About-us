@@ -57,16 +57,48 @@
 </div>
 
 <style>
-    #bilibutton{
-        height: 40px;
-        width: 100px;
-        background-color:rgb(50, 155, 230);
-        border: 0px;
-        border-radius: 50px;
-        font-size: 20px;
-        cursor: pointer;
-    }
+    #bilibutton {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(50, 155, 230);
+    /*按钮边框宽度*/
+    border: 0px;
+    /*圆角*/
+    border-radius: 50px;
+    font-size: 20px;
+    /*手指-鼠标*/
+    cursor: pointer;
+    /*颜色-字*/
+    color: white;
+    /*添加动画*/
+    transition: background-color 0.3s ease;
+}
+/*鼠标悬停事件*/
+#bilibutton:hover {
+    background-color: rgb(30, 120, 200);
+}
+#gitbutton {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    /*按钮边框宽度*/
+    border: 0px;
+    /*圆角*/
+    border-radius: 50px;
+    font-size: 20px;
+    /*手指-鼠标*/
+    cursor: pointer;
+    /*颜色-字*/
+    color: white;
+    /*添加动画*/
+    transition: background-color 0.3s ease;
+}
+/*鼠标悬停事件*/
+#gitbutton:hover {
+    background-color: rgb(75, 75, 75);
+}
 </style>
-<button id="bilibutton">bilibili</button>
+<button id="bilibutton">Bilibili</button>
+<button id="gitbutton">Github</button>
 
 > 待补充
