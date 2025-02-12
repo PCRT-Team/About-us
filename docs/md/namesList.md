@@ -1,5 +1,49 @@
 # 人员名单
 
+<style>
+    #bilibutton {
+    height: 20px;
+    width: 50px;
+    background-color: rgb(50, 155, 230);
+    /*按钮边框宽度*/
+    border: 0px;
+    /*圆角*/
+    border-radius: 50px;
+    font-size: 13px;
+    /*手指-鼠标*/
+    cursor: pointer;
+    /*颜色-字*/
+    color: white;
+    /*添加动画*/
+    transition: background-color 0.3s ease;
+}
+/*鼠标悬停事件*/
+#bilibutton:hover {
+    background-color: rgb(30, 120, 200);
+}
+#gitbutton {
+    height: 20px;
+    width: 50px;
+    background-color: rgb(0, 0, 0);
+    /*按钮边框宽度*/
+    border: 0px;
+    /*圆角*/
+    border-radius: 50px;
+    font-size: 13px;
+    /*手指-鼠标*/
+    cursor: pointer;
+    /*颜色-字*/
+    color: white;
+    /*添加动画*/
+    transition: background-color 0.3s ease;
+}
+/*鼠标悬停事件*/
+#gitbutton:hover {
+    background-color: rgb(75, 75, 75);
+}
+</style>
+
+
 > 注：排列不分先后
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="text-align: center;">
@@ -75,49 +119,6 @@ copy by bbc
 
 114514 别找了哥们，这次没泄火的渠道了。
  -->
-
-<style>
-    #bilibutton {
-    height: 20px;
-    width: 50px;
-    background-color: rgb(50, 155, 230);
-    /*按钮边框宽度*/
-    border: 0px;
-    /*圆角*/
-    border-radius: 50px;
-    font-size: 13px;
-    /*手指-鼠标*/
-    cursor: pointer;
-    /*颜色-字*/
-    color: white;
-    /*添加动画*/
-    transition: background-color 0.3s ease;
-}
-/*鼠标悬停事件*/
-#bilibutton:hover {
-    background-color: rgb(30, 120, 200);
-}
-#gitbutton {
-    height: 20px;
-    width: 50px;
-    background-color: rgb(0, 0, 0);
-    /*按钮边框宽度*/
-    border: 0px;
-    /*圆角*/
-    border-radius: 50px;
-    font-size: 13px;
-    /*手指-鼠标*/
-    cursor: pointer;
-    /*颜色-字*/
-    color: white;
-    /*添加动画*/
-    transition: background-color 0.3s ease;
-}
-/*鼠标悬停事件*/
-#gitbutton:hover {
-    background-color: rgb(75, 75, 75);
-}
-</style>
 
 
 > 待补充
