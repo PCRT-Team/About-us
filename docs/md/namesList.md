@@ -80,6 +80,9 @@ for (const member of pcrt_members) {
     const memberName = document.createElement("p");
     memberName.innerText = member.name;
 
+    memberDiv.appendChild(memberImg);
+    memberDiv.appendChild(memberName);
+
     if (member.bilibili) {
         const bilibiliButton = document.createElement("button");
         bilibiliButton.id = "bilibutton";
@@ -95,9 +98,6 @@ for (const member of pcrt_members) {
         githubButton.onclick = () => window.location.href = `https://github.com/${member.github}`;
         memberDiv.appendChild(githubButton);
     }
-
-    memberDiv.appendChild(memberImg);
-    memberDiv.appendChild(memberName);
 
     memberList.appendChild(memberDiv);
 }
