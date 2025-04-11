@@ -62,7 +62,7 @@ const pcrt_members = [
     {name: "️skyhigh173", img: "skyhigh173.jpg", bilibili: null, github: null},
     {name: "️realtvop", img: "qiaozhi.jpg", bilibili: null, github: null},
     {name: "️Xx_Dark_D_xX", img: "wssr.jpg", bilibili: null, github: null},
-    {name: "️小奶椰", img: "xny.jpg", bilibili: null, github: null},
+    {name: "️小奶椰", img: "xny.jpg", bilibili: 1792268350, github: "Milk-COCO"},
 ];
 const memberList = document.getElementById("memberList");
 
