@@ -62,7 +62,9 @@ const pcrt_members = [
     {name: "️skyhigh173", img: "skyhigh173.jpg", bilibili: null, github: null},
     {name: "️realtvop", img: "qiaozhi.jpg", bilibili: null, github: null},
     {name: "️Xx_Dark_D_xX", img: "wssr.jpg", bilibili: null, github: null},
-    {name: "️小奶椰", img: "xny.jpg", bilibili: 1792268350, github: "Milk-COCO"},
+    {name: "️小奶椰", img: "xny.jpg", bilibili: 1792268350, github: "Milk-COCO", pic_styles: [
+        {name: "filter", value: "grayscale(100%)"}
+    ]},
 ];
 const memberList = document.getElementById("memberList");
 
@@ -97,6 +99,12 @@ for (const member of pcrt_members) {
         githubButton.innerText = "Github";
         githubButton.onclick = () => window.location.href = `https://github.com/${member.github}`;
         memberDiv.appendChild(githubButton);
+    }
+
+    if (member.pic_styles) {
+        for (const style of member.pic_styles) {
+            memberImg.style[style.name] = style.value;
+        }
     }
 
     memberList.appendChild(memberDiv);
