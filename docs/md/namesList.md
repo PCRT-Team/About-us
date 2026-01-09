@@ -52,16 +52,16 @@
 const pcrt_members = [
     {name: "欧一biang吔", img: "o1b.jpg", bilibili: 437161770, github: "Allenkzf"},
     {name: "HLMC", img: "hlmc.jpg", bilibili: 357681195, github: "2278535805"},
-    {name: "LMZO", img: "lmz.jpg", bilibili: 1245904744, github: LMZOWO},
+    {name: "LMZO", img: "lmz.jpg", bilibili: 1245904744, github: "LMZOWO"},
     {name: "空吧哇", img: "kbw.jpg", bilibili: 527630410, github: "K0nGbawa"},
-    {name: "Bnao", img: "bnao.jpg", bilibili: 396563011, github: Bnao-zh},
+    {name: "Bnao", img: "bnao.jpg", bilibili: 396563011, github: "Bnao-zh"},
     {name: "qaqFei", img: "qifie.jpg", bilibili: 3537119301601486, github: "qaqFei"},
-    {name: "冰猫", img: "bbc.jpg", bilibili: 1644970825, github: CHCAT1320},
-    {name: "Bychuhan", img: "bch.jpg", bilibili: 564698247, github: Bychuhan},
+    {name: "冰猫", img: "bbc.jpg", bilibili: 1644970825, github: "CHCAT1320"},
+    {name: "Bychuhan", img: "bch.jpg", bilibili: 564698247, github: "Bychuhan"},
     {name: "️泡水⑨fumo", img: "9.jpg", bilibili: null, github: null},
     {name: "️skyhigh173", img: "skyhigh173.jpg", bilibili: 1476167512, github: null},
-    {name: "️realtvop", img: "qiaozhi.jpg", bilibili: 484759721, github: realtvop},
-    {name: "️Xx_Dark_D_xX", img: "wssr.jpg", bilibili: 389306201, github: mizu-mio},
+    {name: "️realtvop", img: "qiaozhi.jpg", bilibili: 484759721, github: "realtvop"},
+    {name: "️Xx_Dark_D_xX", img: "wssr.jpg", bilibili: 389306201, github: "mizu-mio"},
     {name: "️小奶椰", img: "xny.jpg", bilibili: 1792268350, github: "Milk-COCO", pic_styles: [
         {name: "filter", value: "grayscale(100%)"}
     ]},
